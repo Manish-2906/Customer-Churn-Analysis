@@ -40,8 +40,11 @@ The dataset contains **23 features** including customer demographics, service su
 ## **5. Conclusion**
 This analysis highlights the factors influencing customer churn and provides actionable recommendations to improve retention. By implementing these strategies, businesses can reduce churn and enhance customer loyalty. make it for github 
 
-![Screenshot (252)](https://github.com/user-attachments/assets/de9fb7a3-1a5f-4668-8ff3-6f3d2b563ee1)
-![Screenshot (253)](https://github.com/user-attachments/assets/4e114126-de9a-420c-8c94-695f07bf935e)
-![Screenshot (254)](https://github.com/user-attachments/assets/2cddf37c-483d-426f-b478-fa3c98c66f8e)
+![Screenshot (255)](https://github.com/user-attachments/assets/f1205fd1-8dc6-4344-95fc-4872aa23dfe6)
+![Screenshot (253)](https://github.com/user-attachments/assets/0a97ecb0-3943-4a51-a643-b87c5a1a4fbf)
+![Screenshot (254)](https://github.com/user-attachments/assets/c5ca4918-c9b5-434c-aecb-e18a6692852e)
+
+
+
 
 
