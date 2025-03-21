@@ -38,7 +38,7 @@ The dataset contains **23 features** including customer demographics, service su
 4. **Focus on Early Retention:** Implement targeted **engagement strategies** for new customers within their **first 18 months**.
 
 ## **5. Conclusion**
-This analysis highlights the factors influencing customer churn and provides actionable recommendations to improve retention. By implementing these strategies, businesses can reduce churn and enhance customer loyalty. make it for github 
+This analysis highlights the factors influencing customer churn and provides actionable recommendations to improve retention. By implementing these strategies, businesses can reduce churn and enhance customer loyalty.
 
 ![Screenshot (255)](https://github.com/user-attachments/assets/f1205fd1-8dc6-4344-95fc-4872aa23dfe6)
 ![Screenshot (253)](https://github.com/user-attachments/assets/0a97ecb0-3943-4a51-a643-b87c5a1a4fbf)
